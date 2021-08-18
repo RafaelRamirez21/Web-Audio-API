@@ -471,8 +471,9 @@ h2 {
  "e4 e5 e6";
   width: 90vw;
   row-gap: 5%;
-  margin: auto;
+  
   margin-bottom: 5%; 
+  margin: auto;
 ;}
   @media (max-width: 740px) {
     .category {
